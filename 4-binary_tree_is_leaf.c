@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_is_leaf - check if the node has no child
- * if has no child
+ * if has no child return:1 otherwise
  * Return:1
  *
  */
