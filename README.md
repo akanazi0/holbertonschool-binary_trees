@@ -1,4 +1,4 @@
-# Holberton School: Binary Trees
+# Holberton School Binary Trees
 
 This project contains C implementations of binary trees and related operations.
 
